@@ -1,0 +1,10 @@
+.textColor{
+    color: rgb(8,40,167);
+    font-size: 5rem;
+    font-weight: 600;
+}
+
+.centrado {
+    margin-left: auto;
+    margin-right: auto;
+}
